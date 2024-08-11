@@ -14,6 +14,7 @@ const __USERRULES__ = [
 'chat.openai.com',
 'chatgpt.com',
 'claude.ai',
+'coinbase.com',
 'dpp.org.tw',
 'ecu.peopleadmin.com',
 'eu-browse.startpage.com',
