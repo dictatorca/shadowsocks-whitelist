@@ -19,6 +19,8 @@ var __USERRULES__ = [
 "kayak.com",
 "mcshosts.net",
 "media-amazon.com",
+"mozilla.net", // the download site
+"mozilla.org",
 "namesilo.com",
 "nexusmods.com",
 "phncdn.com", //pronhub dependencies
