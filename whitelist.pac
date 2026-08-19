@@ -1,43 +1,32 @@
 var __USERRULES__ = [
 ".mo", //macao sites
+"bezrealitky.com",
 "bigcommerce.com",
 "certbot.eff.org",
 "chase.com",
-"chasecdn.com",
-"china-airlines.com",
 "dell.com",
 "desktop.line-scdn.net",
-"dm530.net",
-"doubao.cc",
-"ems.post",
 "gaming-fans.com",
 "gaming.stackexchange.com",
-"greasyfork.org",
-// "gstatic.com", //fonts.gstatic.com 被屏蔽
+"glassdoor.com",
 "ifttt.com",
 "jetbrains.com",
 "kayak.com",
-"mcshosts.net",
-"media-amazon.com",
-"mozilla.net", // the download site
 "mozilla.org",
 "namesilo.com",
 "nexusmods.com",
-"phncdn.com", //pronhub dependencies
 "sectigostore.com",
+"sixyik.com",
 "sk-ii.com",
 "software-download.microsoft.com",
 "sourceforge.net",
 "sqlitebrowser.org",
 "stackpath.bootstrapcdn.com",
-"steam.apac.qtlglb.com", //looks like it's where steams downloads games from
-"superuser.com",
-"travel-assets.com",
+"surrit.com",
 "venmo.com",
 "vmware.com",
 "witcher3map.com",
 "wordpress.org",
-"zimbra.cs.ucla.edu",
 ];
 
 // Author: iBug <ibug.io>
